@@ -60,3 +60,11 @@ Output TotalBalance
 End
 
 ```
+## Flow chart 
+
+![Flowchart](https://github.com/tanguosheng1999/271412-STIA1113-A191-A1A2/blob/master/Flow%20Chart(assignment%201%262).png)
+
+
+## Screenshot of the output
+
+![output](https://github.com/tanguosheng1999/271412-STIA1113-A191-A1A2/blob/master/Output.png)
